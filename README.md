@@ -6,7 +6,7 @@ Pomodoro Study Group
 
 **Shared Speakers:**
 
-**Attendees:** Chloe, Dark Knight, Fan, hahaguaa, infrared628, Karen, L.yufan, LiuXueying, Ming, Shenhai , Sunday, V, Whisky, JY
+**Attendees:** Chloe, Dark Knight, Fan, hahaguaa, infrared628, Karen, L.yufan, LiuXueying, Ming, Shenhai , Sunday, V, Whisky, JY, Christine
 
 **Meeting Notes:**
 
