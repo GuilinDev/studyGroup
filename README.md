@@ -1,7 +1,7 @@
 # studyGroup
 Pomodoro Study Group
 
-## 000. Week1 Summary
+## 000. Week0 Summary
 **Meeting Date/Time:** 10/09/2022
 
 **Shared Speakers:**
