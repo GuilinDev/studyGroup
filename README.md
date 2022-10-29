@@ -20,7 +20,7 @@ Pomodoro Study Group
 **Attendees:** haguagua, Sophie, Chloe, infrared628, Shenhai 
 
 **Meeting Notes:**
-* 分享《向上管理-如何正确汇报工作》读后感 
+* 分享《向上管理-如何正确汇报工作》读后感 - 上
 * 了解leader的特征
 * 多汇报
 * 汇报的方式
