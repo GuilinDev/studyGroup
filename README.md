@@ -12,6 +12,19 @@ Pomodoro Study Group
 
 *
 
+## 001. Week1 Summary
+**Meeting Date/Time:** 10/28/2022
+
+**Shared Speakers:**
+
+**Attendees:** haguagua, Sophie, Chloe, infrared628, Shenhai 
+
+**Meeting Notes:**
+* 分享《向上管理-如何正确汇报工作》读后感 - 上
+* 了解leader的特征
+* 多汇报
+* 汇报的方式
+
 | &emsp;&emsp;日期&emsp;&emsp;  | &emsp;&emsp;Chloe&emsp;&emsp;  | &emsp;&emsp;Dark Knight&emsp;&emsp;  | &emsp;&emsp;Fan&emsp;&ensp;  | &emsp;&emsp;hahaguaa&emsp;&emsp; | &emsp;&emsp;Infrared628&emsp;&emsp;  | &emsp;&emsp;Karen&emsp;&emsp; | &emsp;&emsp;LiuXueying&emsp;&emsp;  | &emsp;&emsp;Shenhai&emsp;&emsp;  | &emsp;&emsp;Sunday(Hao)&emsp;&emsp;  | &emsp;&emsp;V&emsp;&emsp;  | &emsp;&emsp;Whisky&emsp;&emsp;  | &emsp;&emsp;JY&emsp;&emsp;  | &emsp;&emsp;L.yufan&emsp;&emsp;  | &emsp;&emsp;Ming&emsp;&emsp; |&emsp;&emsp;Christine&emsp;&emsp;  |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | ️ 10/08/22  |  ✅  | ✅  |  ️✅  | ️ ✅  |  ✅  |  ✅  |  ✅  |  ️✅  | ️ ✅  |    |    |  ️  | ️ ✅  |  ✅  |  ✅  |
