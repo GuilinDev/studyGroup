@@ -25,13 +25,24 @@ Pomodoro Study Group
 * 多汇报
 * 汇报的方式
 
-| &emsp;&emsp;日期&emsp;&emsp;  | &emsp;&emsp;Chloe&emsp;&emsp;  | &emsp;&emsp;Dark Knight&emsp;&emsp;  | &emsp;&emsp;Fan&emsp;&ensp;  | &emsp;&emsp;hahaguaa&emsp;&emsp; | &emsp;&emsp;Infrared628&emsp;&emsp;  | &emsp;&emsp;Karen&emsp;&emsp; | &emsp;&emsp;LiuXueying&emsp;&emsp;  | &emsp;&emsp;Shenhai&emsp;&emsp;  | &emsp;&emsp;Sunday(Hao)&emsp;&emsp;  | &emsp;&emsp;V&emsp;&emsp;  | &emsp;&emsp;Whisky&emsp;&emsp;  | &emsp;&emsp;JY&emsp;&emsp;  | &emsp;&emsp;L.yufan&emsp;&emsp;  | &emsp;&emsp;Ming&emsp;&emsp; |&emsp;&emsp;Christine&emsp;&emsp;  |
-| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| ️ 10/08/22  |  ✅  | ✅  |  ️✅  | ️ ✅  |  ✅  |  ✅  |  ✅  |  ️✅  | ️ ✅  |    |    |  ️  | ️ ✅  |  ✅  |  ✅  |
-| ️ 10/09/22  |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-| ️ 10/15/22  |    |    |   ️  | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-| ️ 10/16/22  |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-| ️   |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-| ️   |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
+## 002. Week2 Summary
+**Meeting Date/Time:** 11/04/2022
+
+**Shared Speakers:**
+
+**Attendees:** haguagua, Liu Xueying, Sophie, Yating, infrared628, Ming
+
+**Meeting Notes:**
+* WebAssembly
+* Small Talk读书111
+
+| &emsp;&emsp;日期&emsp;&emsp; | &emsp;&emsp;Chloe&emsp;&emsp;  | &emsp;&emsp;Dark Knight&emsp;&emsp;  | &emsp;&emsp;Fan&emsp;&ensp;  | &emsp;&emsp;hahaguaa&emsp;&emsp; | &emsp;&emsp;Infrared628&emsp;&emsp;  | &emsp;&emsp;Karen&emsp;&emsp; | &emsp;&emsp;LiuXueying&emsp;&emsp;  | &emsp;&emsp;Shenhai&emsp;&emsp;  | &emsp;&emsp;Sunday(Hao)&emsp;&emsp;  | &emsp;&emsp;V&emsp;&emsp;  | &emsp;&emsp;Whisky&emsp;&emsp;  | &emsp;&emsp;JY&emsp;&emsp;  | &emsp;&emsp;L.yufan&emsp;&emsp;  | &emsp;&emsp;Ming&emsp;&emsp; |&emsp;&emsp;Christine&emsp;&emsp;  |
+|:--------------------------:| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+|         ️ 10/08/22         |  ✅  | ✅  |  ️✅  | ️ ✅  |  ✅  |  ✅  |  ✅  |  ️✅  | ️ ✅  |    |    |  ️  | ️ ✅  |  ✅  |  ✅  |
+|         ️ 10/09/22         |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
+|         ️ 10/15/22         |    |    |   ️  | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
+|         ️ 10/16/22         |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
+|             ️1             |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
+|             ️              |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
 
 
