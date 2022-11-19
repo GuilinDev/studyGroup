@@ -35,6 +35,19 @@ Pomodoro Study Group
 **Meeting Notes:**
 * WebAssembly
 * Small Talk读书111
+* 
+## 003. Week3 Summary
+**Meeting Date/Time:** 11/18/2022
+
+**Shared Speakers:**
+
+**Attendees:** haguagua, Liu Xueying, Sophie, infrared628
+
+**Meeting Notes:**
+* Sophie分享Meta的裁员事件
+* Idempotency
+* English 10 phrase:
+   * sports-minded, proactive/reactive, jump to, approached, approach to, take the time, thin air, empathetic, access to, communicator
 
 | &emsp;&emsp;日期&emsp;&emsp; | &emsp;&emsp;Chloe&emsp;&emsp;  | &emsp;&emsp;Dark Knight&emsp;&emsp;  | &emsp;&emsp;Fan&emsp;&ensp;  | &emsp;&emsp;hahaguaa&emsp;&emsp; | &emsp;&emsp;Infrared628&emsp;&emsp;  | &emsp;&emsp;Karen&emsp;&emsp; | &emsp;&emsp;LiuXueying&emsp;&emsp;  | &emsp;&emsp;Shenhai&emsp;&emsp;  | &emsp;&emsp;Sunday(Hao)&emsp;&emsp;  | &emsp;&emsp;V&emsp;&emsp;  | &emsp;&emsp;Whisky&emsp;&emsp;  | &emsp;&emsp;JY&emsp;&emsp;  | &emsp;&emsp;L.yufan&emsp;&emsp;  | &emsp;&emsp;Ming&emsp;&emsp; |&emsp;&emsp;Christine&emsp;&emsp;  |
 |:--------------------------:| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
