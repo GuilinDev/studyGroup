@@ -96,7 +96,7 @@ Pomodoro Study Group
 
 **Shared Speakers:**
 
-**Attendees:** Sophie, Haguagua, Ming, infrared628
+**Attendees:** Liu Xueying, Haguagua, Ming, infrared628
 
 **Meeting Notes:**
 
