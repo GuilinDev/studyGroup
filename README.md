@@ -91,14 +91,37 @@ Pomodoro Study Group
    * I’ve always felt that tragedy and comedy are **two sides** of the same coin. Love and hate are the **opposite sides** of the same coin.
    * My computer keeps going **funny**.
 
+## 005. Week5 Summary
+**Meeting Date/Time:** 12/09/2022
 
-| &emsp;&emsp;日期&emsp;&emsp; | &emsp;&emsp;Chloe&emsp;&emsp;  | &emsp;&emsp;Dark Knight&emsp;&emsp;  | &emsp;&emsp;Fan&emsp;&ensp;  | &emsp;&emsp;hahaguaa&emsp;&emsp; | &emsp;&emsp;Infrared628&emsp;&emsp;  | &emsp;&emsp;Karen&emsp;&emsp; | &emsp;&emsp;LiuXueying&emsp;&emsp;  | &emsp;&emsp;Shenhai&emsp;&emsp;  | &emsp;&emsp;Sunday(Hao)&emsp;&emsp;  | &emsp;&emsp;V&emsp;&emsp;  | &emsp;&emsp;Whisky&emsp;&emsp;  | &emsp;&emsp;JY&emsp;&emsp;  | &emsp;&emsp;L.yufan&emsp;&emsp;  | &emsp;&emsp;Ming&emsp;&emsp; |&emsp;&emsp;Christine&emsp;&emsp;  |
-|:--------------------------:| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-|         ️ 10/08/22         |  ✅  | ✅  |  ️✅  | ️ ✅  |  ✅  |  ✅  |  ✅  |  ️✅  | ️ ✅  |    |    |  ️  | ️ ✅  |  ✅  |  ✅  |
-|         ️ 10/09/22         |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-|         ️ 10/15/22         |    |    |   ️  | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-|         ️ 10/16/22         |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-|             ️1             |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
-|             ️              |    |    |  ️   | ️    |    |    |    |  ️  | ️   |    |    |  ️  | ️   |    |    |
+**Shared Speakers:**
+
+**Attendees:** Sophie, Haguagua, Ming, infrared628
+
+**Meeting Notes:**
+
+### Prior knowledge
+
+[Activating Prior Knowledge With English Language Learners](https://blog.pragmaticengineer.com/the-product-minded-engineer/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+* K-W-L Charts (What I Know, What I Want to Know, What I Learned)
+* Anticipation Guides (What I Think I Know, What I Think I Want to Know, What I Think I Learned)
+
+[The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+* Product-Minded Engineer
+  1. Proactive with product ideas/opinions 
+  2. Interest in the business, user behavior and data on this
+  3. Curiosity and a keen interest in "why?"
+  4. Strong communicators and great relationships with non-engineers
+  5. Offering product/engineering tradeoffs upfront
+  6. Pragmatic handling of edge cases
+  7. Quick product validation cycles
+  8. End-to-end product feature ownership
+  9. Strong product instincts through repeated cycles of learning
+
+* Two dozen states have asked the D.C. Circuit to block a new **climate-change-minded** federal law that they say will inflate electricity bills for families.
+* They are **business-minded** yet warm-hearted when it comes to those less fortunate, and prove that they can transform their theoretical academic knowledge into sustainable business practices through social projects.
+
+[copilot](https://github.com/features/copilot)
+
 
 
