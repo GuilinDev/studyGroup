@@ -123,20 +123,22 @@ Pomodoro Study Group
 
 [copilot](https://github.com/features/copilot)
 
-## 005. Week7 Summary
+## 006. Week6 Summary
 **Meeting Date/Time:** 12/16/2022
 
 **Shared Speakers:**
 
-**Attendees:** Haguagua, infrared628
+**Attendees:** Sophie, Haguagua, infrared628
 
 **Meeting Notes:**
+* AWS IAM
+  * IAM Policies; IAM user; IAM group; IAM role (temporary role)
 * English : empathy 和 sympathy 的区别
   * empathy: 感同身受, an individual’s ability to understand what another person is going through, by perceiving himself in the same situation，指一个人通过把自己放到相同的情境中感知自己，来理解另一个人正在经历的事情的能力。而有时候我们说“共情”，是强调“理解、共鸣”的意思。
     * He is empathetic with the jobless youth, as he was also struggling for a job in his early years.
     * She is empathetic with the poor, as she was also poor in her childhood.
   * sympathy: "同情"，有同情心，指“对另一个人造成的困难、问题和痛苦感到悲伤或怜悯”，更强调“同情、悲悯”。能够体会别人的痛苦，但是不一定能够理解别人的感受, the feeling of sorrow for the hardships, problems and pain caused to another person，
-    * eg: I have empathy for the homeless, but I don't have sympathy for them.
+    I have empathy for the homeless, but I don't have sympathy for them.
     * All Tony’s friends joined in sending their sympathies to his widow Jean.
 
 
