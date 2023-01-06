@@ -162,4 +162,13 @@ Pomodoro Study Group
   * I don’t see the **relevance** of your question.
   * All happy families resemble one another, each unhappy family is unhappy in its own way.
 
+## 008. Week8 Summary
+**Meeting Date/Time:** 01/06/2023
 
+**Shared Speakers:**
+
+**Attendees:** Liu Xueying, Haguagua, Ming, infrared628
+
+**Meeting Notes:**
+* 阅读材料： [Open Source Benefits to Innovation and Organizational Agility](https://www.infoq.com/news/2019/03/open-source-benefits/)
+* 
