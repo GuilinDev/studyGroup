@@ -133,6 +133,7 @@ Pomodoro Study Group
 **Meeting Notes:**
 * AWS IAM
   * IAM Policies; IAM user; IAM group; IAM role (temporary role)
+  * PPT: https://docs.google.com/presentation/d/1eSO8NhIS7aHG5lYBv6TV0t7HzFxRAWqDb3CpoPXCAQE/edit#slide=id.p
 * English : empathy 和 sympathy 的区别
   * empathy: 感同身受, an individual’s ability to understand what another person is going through, by perceiving himself in the same situation，指一个人通过把自己放到相同的情境中感知自己，来理解另一个人正在经历的事情的能力。而有时候我们说“共情”，是强调“理解、共鸣”的意思。
     * He is empathetic with the jobless youth, as he was also struggling for a job in his early years.
