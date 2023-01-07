@@ -171,5 +171,20 @@ Pomodoro Study Group
 **Attendees:** Liu Xueying, Haguagua, Ming, infrared628
 
 **Meeting Notes:**
+* [How to store password in database?](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+  * Salting
+  * Peppering
+  * Modern Hashing Algorithms (Not MD5, SHA1, SHA256, SHA512):
+    * Argon2
+    * scrypt
+    * bcrypt
+    * PBKDF2
+    
 * 阅读材料： [Open Source Benefits to Innovation and Organizational Agility](https://www.infoq.com/news/2019/03/open-source-benefits/)
-* 
+  * Guest Speaker - A guest speaker is a person who is invited to speak at an event.
+  * Keynote Speaker - Keynode vs PPT -> slides
+  * Agile: able to move quickly and easily; able to think quickly and in an intelligent way -> [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html)
+    * All happy families resemble one another, each unhappy family is unhappy in its own way
+  * Waterfall vs Agile vs DevOps
+  * [How Capital One Became A Leading Digital Bank](https://www.forbes.com/sites/peterhigh/2016/12/12/how-capital-one-became-a-leading-digital-bank/?sh=5a6a165015ee)
+
