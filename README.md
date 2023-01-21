@@ -188,3 +188,12 @@ Pomodoro Study Group
   * Waterfall vs Agile vs DevOps
   * [How Capital One Became A Leading Digital Bank](https://www.forbes.com/sites/peterhigh/2016/12/12/how-capital-one-became-a-leading-digital-bank/?sh=5a6a165015ee)
 
+## 009. Week9 Summary
+**Meeting Date/Time:** 01/20/2023
+
+**Shared Speakers:**
+
+**Attendees:** Liu Xueying, Sophie, infrared628
+
+**Meeting Notes:**
+* Android Modularization for speeding up build (gradle)
