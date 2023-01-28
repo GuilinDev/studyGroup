@@ -197,3 +197,39 @@ Pomodoro Study Group
 
 **Meeting Notes:**
 * Android Modularization for speeding up build (gradle)
+## 010. Week10 Summary
+**Meeting Date/Time:** 01/27/2023
+
+**Shared Speakers:**
+
+**Attendees:** hahagua, Liu Xueying, infrared628
+
+**Meeting Notes:**
+
+Hahagua:
+* Big data @ Data Lake
+  * OLTP vs OLAP
+  * Data Warehouse vs Data Lake
+  * MapReduce: Data Skew, no index, slow -> Spark (data sources are files, databases, streams, etc.)
+  * Data Lake = distributed file system + distributed data processing engine (different from Data Warehouse, do not depend on databases only)
+* Azure with Databricks demo for data lake
+
+Infrared628:
+* **Based on numerous surveys and conversations conducted with experienced clients, analysts, subject matter experts and peers**, Aitken identified five leading benefits from adopting company wide open source strategies.
+* Most companies initiate their open source journey because of the **perceived** financial benefits, although this is almost never the reason why they keep using and scale open source.
+  * New technology was perceived to be a threat to employment.
+  * Stress is widely perceived as contributing to heart disease.
+  * The fact that an e-book can’t be sold or given away after it’s read also reduces the perceived value of the product.
+  * perceived value vs actual value: 
+    * All values are perceived values.
+    * Perception is reality.
+* These teams’ led customizations **contribute to** increasing the speed of new ideas and features to market.
+  * I think you should keep Eric because he really contributes a lot to our team.
+  * I’m sorry, I think sleep deprivation contributed to my outburst just then.
+* The second benefit is teams’ ability to safely experiment and **fail fast**.
+* **When buying proprietary enterprise software**, management and teams are pressured to make these products work because of the upfront investment, **even if they no longer fit the purpose**.
+* **With open source**, teams feel **empowered** to download and experiment with various solutions.
+  * I empowered my agent to close the deal.
+  * Empowered and Empowerment
+* If they realize that it’s not the right open source for their project, they can experiment with different open source solutions and even consider proprietary software. Open source enables organizations to empower teams and provides teams the ability to fail fast and cheaply.
+
