@@ -233,3 +233,15 @@ Infrared628:
   * Empowered and Empowerment
 * If they realize that it’s not the right open source for their project, they can experiment with different open source solutions and even consider proprietary software. Open source enables organizations to empower teams and provides teams the ability to fail fast and cheaply.
 
+## 011. Week10 Summary
+**Meeting Date/Time:** 02/03/2023
+
+**Shared Speakers:**
+
+**Attendees:** hahagua, Liu Xueying, Sophie, infrared628
+
+**Meeting Notes:**
+* open source project: [https://github.com/promptable/chat-bot-starter](https://github.com/promptable/chat-bot-starter)
+* openai api key: [https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys)
+* ai tools: [https://allthingsai.com/tool/chatbotkit](https://allthingsai.com/tool/chatbotkit)
+* prompt: [https://promptable.ai/](https://promptable.ai/)
