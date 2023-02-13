@@ -236,12 +236,23 @@ Infrared628:
 ## 011. Week10 Summary
 **Meeting Date/Time:** 02/03/2023
 
-**Shared Speakers:**
+**Shared Speakers:** infrared628
 
-**Attendees:** hahagua, Liu Xueying, Sophie, infrared628
+**Attendees:** hahagua, Liu Xueying, Sophie
 
 **Meeting Notes:**
 * open source project: [https://github.com/promptable/chat-bot-starter](https://github.com/promptable/chat-bot-starter)
 * openai api key: [https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys)
 * ai tools: [https://allthingsai.com/tool/chatbotkit](https://allthingsai.com/tool/chatbotkit)
 * prompt: [https://promptable.ai/](https://promptable.ai/)
+* 
+## 012. Week12 Summary
+**Meeting Date/Time:** 02/10/2023
+
+**Shared Speakers:** hahagua
+
+**Attendees:** Sophie, infrared628
+
+**Meeting Notes:**
+* nand to tetris demo
+* ChatGPT for rephase
