@@ -245,7 +245,7 @@ Infrared628:
 * openai api key: [https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys)
 * ai tools: [https://allthingsai.com/tool/chatbotkit](https://allthingsai.com/tool/chatbotkit)
 * prompt: [https://promptable.ai/](https://promptable.ai/)
-* 
+
 ## 012. Week12 Summary
 **Meeting Date/Time:** 02/10/2023
 
@@ -256,3 +256,16 @@ Infrared628:
 **Meeting Notes:**
 * nand to tetris demo
 * ChatGPT for rephase
+
+## 013. Week13 Summary
+**Meeting Date/Time:** 02/17/2023
+
+**Shared Speakers:** Xueying
+
+**Attendees:** Sophie, infrared628
+
+**Meeting Notes:**
+*  Gradient Boosting Decision Tree (GBDT) 判定交易风险 vs Random Forest
+* 利用梯度下降，loss function，迭代两千多次，每次计算上一次的residual
+* XGBoost
+* 
