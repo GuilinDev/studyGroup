@@ -268,4 +268,13 @@ Infrared628:
 *  Gradient Boosting Decision Tree (GBDT) 判定交易风险 vs Random Forest
 * 利用梯度下降，loss function，迭代两千多次，每次计算上一次的residual
 * XGBoost
+
+## 013. Week14 Summary
+**Meeting Date/Time:** 03/03/2023
+
+**Shared Speakers:** infrared628
+
+**Attendees:** Xueying, hahagua
+
+**Meeting Notes:**
 * 
