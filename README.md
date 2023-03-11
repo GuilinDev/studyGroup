@@ -284,7 +284,7 @@ Infrared628:
 
 **Shared Speakers:** infrared628
 
-**Attendees:** Xueying, hahagua
+**Attendees:** Xueying, hahagua, Sophie
 
 **Meeting Notes:**
 * Git common commands
