@@ -288,6 +288,7 @@ Infrared628:
 
 **Meeting Notes:**
 * Git common commands
+* Mercurial vs Git
 
 ![Git Commands](./imgs/GitCommands.png)
 
