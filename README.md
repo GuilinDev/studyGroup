@@ -274,7 +274,19 @@ Infrared628:
 
 **Shared Speakers:** infrared628
 
-**Attendees:** Xueying, hahagua
+**Attendees:** Xueying, hahagua, Sophie
 
 **Meeting Notes:**
 * Design Analysis of Cloud-based Microservices Architecture at Netflix
+
+## 014. Week14 Summary
+**Meeting Date/Time:** 03/10/2023
+
+**Shared Speakers:** infrared628
+
+**Attendees:** Xueying, hahagua
+
+**Meeting Notes:**
+* Git common commands
+
+![Git Commands](./imgs/GitCommands.png)
