@@ -290,3 +290,6 @@ Infrared628:
 * Git common commands
 
 ![Git Commands](./imgs/GitCommands.png)
+
+* Windows Subsystem
+* ChatGPT plugin
