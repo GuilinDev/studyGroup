@@ -294,3 +294,20 @@ Infrared628:
 
 * Windows Subsystem
 * ChatGPT plugin
+
+## 015. Week15 Summary
+**Meeting Date/Time:** 03/17/2023
+
+**Attendees:** infrared628, Xueying, hahagua, Sophie
+
+**Meeting Notes:**
+
+## 015. Week16 Summary
+**Meeting Date/Time:** 03/24/2023
+
+**Attendees:** infrared628, hahagua, Sophie
+
+**Meeting Notes:**
+* curso.so
+* chatgpt plugin
+* copilot x
