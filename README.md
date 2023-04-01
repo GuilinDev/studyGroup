@@ -311,3 +311,11 @@ Infrared628:
 * curso.so
 * chatgpt plugin
 * copilot x
+
+## 016. Week17 Summary
+**Meeting Date/Time:** 03/24/2023
+
+**Attendees:** infrared628, hahagua, Liu Xueying
+
+**Meeting Notes:**
+* Gradient Descent
