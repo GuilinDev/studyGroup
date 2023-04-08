@@ -313,9 +313,18 @@ Infrared628:
 * copilot x
 
 ## 016. Week17 Summary
-**Meeting Date/Time:** 03/24/2023
+**Meeting Date/Time:** 03/31/2023
 
 **Attendees:** infrared628, hahagua, Liu Xueying
 
 **Meeting Notes:**
 * Gradient Descent
+
+## 017. Week18 Summary
+**Meeting Date/Time:** 04/07/2023
+
+**Attendees:** infrared628, hahagua
+
+**Meeting Notes:**
+* 线性回归，神经网络，多层神经网络（多个processing element）
+* 梯度下降，反向传播
