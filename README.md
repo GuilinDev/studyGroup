@@ -328,3 +328,12 @@ Infrared628:
 **Meeting Notes:**
 * 线性回归，神经网络，多层神经网络（多个processing element）
 * 梯度下降，反向传播
+
+## 018. Week19 Summary
+**Meeting Date/Time:** 04/21/2023
+
+**Attendees:** infrared628, hahagua
+
+**Meeting Notes:**
+* 3rd Party Authorzation Oauth2.0
+* Zine - How to coordinate a manager
