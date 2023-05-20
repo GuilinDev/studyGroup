@@ -338,13 +338,13 @@ Infrared628:
 * 3rd Party Authorzation Oauth2.0
 * Zine - How to coordinate a manager
 
-## 018. Week20 Summary
+## 019. Week20 Summary
 **Meeting Date/Time:** 05/05/2023
 
 **Attendees:** infrared628, hahagua, Sophie
 ![How to setup Performance Review Doc](./imgs/20230505_careerExpectations.png)
 
-## 018. Week20 Summary
+## 020. Week21 Summary
 **Meeting Date/Time:** 05/19/2023
 
 **Attendees:** infrared628, hahagua, Sophie
