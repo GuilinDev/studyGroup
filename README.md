@@ -343,3 +343,9 @@ Infrared628:
 
 **Attendees:** infrared628, hahagua, Sophie
 ![How to setup Performance Review Doc](./imgs/20230505_careerExpectations.png)
+
+## 018. Week20 Summary
+**Meeting Date/Time:** 05/19/2023
+
+**Attendees:** infrared628, hahagua, Sophie
+* k8s intro
